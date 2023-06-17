@@ -1,0 +1,14 @@
+{
+  "name": "sanber-javascript",
+  "version": "1.0.0",
+  "description": "belajar javascript sanber 45",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "author": "devy",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
