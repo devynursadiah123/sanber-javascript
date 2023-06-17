@@ -69,7 +69,7 @@ var dataSTNK = [
 ]
 
 // for(let i=0;i<dataSTNK.length;i++){
-//     console.log(JSON.stringify(dataSTNK[i].alamat)) bentuk array
+// console.log(JSON.stringify(dataSTNK[i].alamat)) bentuk array
 //     console.log(JSON.stringify(dataSTNKUjang.alamat)) bentuk objek
 // }
 
